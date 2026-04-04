@@ -46,7 +46,7 @@ Locomotive Scroll hijacks the native scroll container, so GSAP's `ScrollTrigger`
 No build step required. Open directly in a browser or serve with any static host.
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/gsap-design-studio.git
+git clone https://github.com/abhijeet-builds/gsap-design-studio.git
 cd gsap-design-studio
 
 # Option 1 — open directly
